@@ -19,6 +19,15 @@ La forma más obvia de ayudar en el proyecto es desarrollando, arreglando bugs o
 
 # Infraestructura
 
+## Página web
+
 Netfilter cuenta con una página web oficial donde podemos encontrar toda la documentación e información necesaria para empezar en el proyecto y entenderlo. La página web intenta ser el portal de acceso a nuevos contribuidores ya que los usuarios serán todos los usuarios que utilicen un sistema operativo linux, al tener un conjunto de herramientas y librerías estándar dentro del Kernel.
 
 ![alt text](img/net_filter_web.png)
+
+
+## Control de versiones
+
+El uso de control de versiones del software es a través de git. El proyecto de netfilter tiene su propia plataforma git. El repositorio
+git está plataformado sobre un servidor web y podemos acceder al git
+del proyecto a través de su [enlace](https://git.netfilter.org/)
