@@ -25,9 +25,11 @@ Netfilter cuenta con una página web oficial donde podemos encontrar toda la doc
 
 ![alt text](img/net_filter_web.png)
 
-
 ## Control de versiones
 
 El uso de control de versiones del software es a través de git. El proyecto de netfilter tiene su propia plataforma git. El repositorio
 git está plataformado sobre un servidor web y podemos acceder al git
-del proyecto a través de su [enlace](https://git.netfilter.org/)
+del proyecto a través de su [enlace](https://git.netfilter.org/) cuenta también con un control de versiones sobre subversion (svn) pero
+el repositorio está obsoleto.
+
+![alt text](img/git_repo_ntfilter.png)
