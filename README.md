@@ -33,3 +33,9 @@ del proyecto a través de su [enlace](https://git.netfilter.org/) cuenta tambié
 el repositorio está obsoleto.
 
 ![alt text](img/git_repo_ntfilter.png)
+
+### Issues para contribuciones
+
+Podríamos realizar cualquier contribución dentro de estos proyectos si accedemos por ejemplo al proyecto de iptables podemos ver el resumen total del proyecto y cuales han sido los últimos commit del proyecto.
+
+![alt text](img/iptables_summary.png)
