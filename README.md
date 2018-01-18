@@ -62,64 +62,63 @@ Netfilter usa listas de correo para la comunicación dentro de la comunidad, exi
 
 La lista de correo tiene una serie de normas que deben cumplirse para el buen funcionamiento de la comunicación dentro de la comunidad.
 
-  List Rules
 
-    Subject Line
-    ------------
-    
-    Make sure that your post contains a valid subject line containing a gist of your
-    post rather than things like 'Help!!!', 'HELP ME PLEEEEEASE', 'Urgent Request' or 'Proposal'.
+Subject Line
+------------
 
-    Top-posts
-    ---------
+Make sure that your post contains a valid subject line containing a gist of your
+post rather than things like 'Help!!!', 'HELP ME PLEEEEEASE', 'Urgent Request' or 'Proposal'.
 
-    Do not "top-post/full-quote" (reply to a message by adding text to the top of the message
-    and quoting the full original message), as it loses the reader and the flow of the message and can annoy other readers.
+Top-posts
+---------
 
-    Overquoting
-    -----------
+Do not "top-post/full-quote" (reply to a message by adding text to the top of the message
+and quoting the full original message), as it loses the reader and the flow of the message and can annoy other readers.
 
-    If you are replying to another message, quote only the portions of that message that you are
-    specifically responding to, and insert your comments after those quotes. Do not simply quote
-    back the entire message! Trim off everything apart from the most relevant lines of the original message.
+Overquoting
+-----------
 
-    In general, your reply should contain at least as much text as the amount of text you are quoting, if not more.
-    Never quote back dozens of lines of text and simply add a single line of text to the bottom - people will *hate* you for that!
+If you are replying to another message, quote only the portions of that message that you are
+specifically responding to, and insert your comments after those quotes. Do not simply quote
+back the entire message! Trim off everything apart from the most relevant lines of the original message.
 
-    HTML Messages
-    -------------
+In general, your reply should contain at least as much text as the amount of text you are quoting, if not more.
+Never quote back dozens of lines of text and simply add a single line of text to the bottom - people will *hate* you for that!
 
-    HTML is not email, and email doesn't contain HTML, so please turn HTML formatting OFF in your email client. We have
-    filters in place that will reject your message if your posting contains HTML. Do not use italics, colors, bold, fonts,
-    pictures, sounds, or other HTML elements. Please use only 7-bit characters when sending email to the lists, with proper
-    quoted printable encoding.
+HTML Messages
+-------------
 
-    Message recycling
-    -----------------
+HTML is not email, and email doesn't contain HTML, so please turn HTML formatting OFF in your email client. We have
+filters in place that will reject your message if your posting contains HTML. Do not use italics, colors, bold, fonts,
+pictures, sounds, or other HTML elements. Please use only 7-bit characters when sending email to the lists, with proper
+quoted printable encoding.
 
-    Do not start a New message or thread by hitting "Reply" in your mail client and changing the subject. When you do this, you
-    mess up other participant's ability to read mail in a threaded fashion. When you mean to post a new message, use New, and when
-    you want to reply to an existing message, hit Reply.
+Message recycling
+-----------------
 
-    Pseudo-legal disclaimers
-    ------------------------
+Do not start a New message or thread by hitting "Reply" in your mail client and changing the subject. When you do this, you
+mess up other participant's ability to read mail in a threaded fashion. When you mean to post a new message, use New, and when
+you want to reply to an existing message, hit Reply.
 
-    Do not attach obnoxious pseudo-legal, nonsensical disclaimers to your messages. People on open source lists do not like to be
-    threatened with these. If your company insists on attaching such disclaimers to messages going out to mailing lists (where,
-    by definition, the sender has *NO* control over who gets to see the message), then either use a webmail system, or just don't post.
+Pseudo-legal disclaimers
+------------------------
 
-    Off-topic
-    ---------
+Do not attach obnoxious pseudo-legal, nonsensical disclaimers to your messages. People on open source lists do not like to be
+threatened with these. If your company insists on attaching such disclaimers to messages going out to mailing lists (where,
+by definition, the sender has *NO* control over who gets to see the message), then either use a webmail system, or just don't post.
 
-    Stay on-topic for the list. This isn't a good place to discuss automobiles, politics, music, or anything that is not related to Netfilter.
-    Sometimes topics will diverge from the general discussion, but please try to keep it relevant to the list topic. Do not ask usage questions
-    in the devel list, or vice versa
+Off-topic
+---------
 
-    Message time and date
-    ---------------------
+Stay on-topic for the list. This isn't a good place to discuss automobiles, politics, music, or anything that is not related to Netfilter.
+Sometimes topics will diverge from the general discussion, but please try to keep it relevant to the list topic. Do not ask usage questions
+in the devel list, or vice versa
 
-    Please make sure the date and time on your computer is always current. When your date is set to something such as the year 2006,
-    messages posted by you will get sorted based on that date, which may put them outside of the related month or year they belong in.
+Message time and date
+---------------------
+
+Please make sure the date and time on your computer is always current. When your date is set to something such as the year 2006,
+messages posted by you will get sorted based on that date, which may put them outside of the related month or year they belong in.
 
 
 # Licencias
