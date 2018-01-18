@@ -121,6 +121,14 @@ in the devel list, or vice versa
 Please make sure the date and time on your computer is always current. When your date is set to something such as the year 2006,
 messages posted by you will get sorted based on that date, which may put them outside of the related month or year they belong in.
 
+
+## Bugzilla
+
+Si un usuario encuentra un bug o piensa que ha encontrado un error en el software debe reportarlo a través de un servidor de _bugzilla_ de netfilter. Los usuarios
+pueden crear una cuenta en el servidor web de bugzilla y subir los informes de posibles bugs a la plataforma.
+
+![alt text](img/bugzilla.png)
+
 # Licencias
 
 Netfilter tiene licencia GPLv2, con esta licencia los desarrolladores o empresas que hagan contribuciones tienen una serie de términos de uso, liberar el software que agreguen del proyecto y vender el software que se desarrolle con el código fuente. Las licencias GPL cómo todas las licencias de software libre deben permitir las cuatro libertades del software
@@ -185,4 +193,4 @@ Para realizar un parche se debe subir en la lista de correo la diferencia entre 
 
 # Roles y responsabilidades
 
-Dentro del proyecto existen una serie de roles y responsabilidades. Existen personas dentro del core-team que se dedican a la administración de la Infraestructura. El mantenimiento del servidor web o el control de versiones y la gestión de la documentación del software.
+Dentro del proyecto existen una serie de roles y responsabilidades. Existen personas dentro del core-team que se dedican a la administración de la Infraestructura, el mantenimiento del servidor web o el control de versiones y la gestión de la documentación del software.
