@@ -172,7 +172,7 @@ Para saber el tipo de licencia que tiene un software libre todos los proyectos c
     to redistribute it under certain conditions; type `show c'
     for details.
 
-[Esta es una de las licencias de copia dentro del proyecto de netfilter de una de las librerías](https://git.netfilter.org/libmnl/tree/COPYING)
+[Esta es una de las licencias de copia dentro del proyecto de netfilter de una de las librerías sigue la GPLv2](https://git.netfilter.org/libmnl/tree/COPYING)
 
 ## Software firmado por los desarrolladores.
 
@@ -220,3 +220,12 @@ Para realizar un parche se debe subir en la lista de correo la diferencia entre 
 # Roles y responsabilidades
 
 Dentro del proyecto existen una serie de roles y responsabilidades. Existen personas dentro del core-team que se dedican a la administración de la Infraestructura, el mantenimiento de los servidores web y el control de versiones o la gestión de la documentación del software.
+
+
+# Contribuciones y cadena de méritos
+
+Como ya hemos comentado Netfilter es un proyecto que funciona a través de las contribuciones de desarrolladores voluntarios no hay empresas detrás encargadas del mantenimiento de los proyectos de netfilter. El software es mantenido por desarrolladores voluntarios.
+
+Dentro de las contribuciones es conseguir una serie de méritos dentro de los proyectos y llegar a ser un desarrollador del _core-team_ o miembro emérito. Esto se puede conseguir dedicando tiempo al proyecto subiendo parches y nuevas funcionalidades al software de netfilter.
+
+![alt text](img/contributions.png)
