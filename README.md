@@ -172,6 +172,8 @@ Para saber el tipo de licencia que tiene un software libre todos los proyectos c
     to redistribute it under certain conditions; type `show c'
     for details.
 
+[Esta es una de las licencias de copia dentro del proyecto de netfilter de una de las librerías](https://git.netfilter.org/libmnl/tree/COPYING)
+
 ## Software firmado por los desarrolladores.
 
 En las moficaciones del software una de las cosas que deben realizarse en la GPLv2 son las marcas de fecha de moficación y la identificación del desarrollador que realizó el parche o la mejora. Para solucionar este problema se realiza la firma del parche que se sube al control de versiones con la marca *Signed-off-by*. Los desarrolladores firman un acuerdo en la contribución en el software.
