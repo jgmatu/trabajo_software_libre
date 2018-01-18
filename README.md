@@ -48,3 +48,13 @@ Dentro de netfilter existe un conjunto de desarrolladores que tienen el rol de c
 ## Lista de correo
 
 Netfilter usa listas de correo para la comunicación dentro de la comunidad, existen tres tipos de listas de correo:
+
+  * Lista de correo de release: Esta lista de correo se usa para informar a los usuarios de las nuevas versiones, cambios, nuevas funcionalidades y bugs arreglados.
+
+  * Lista de correo de usuarios: En la lista de correo de usuarios podemos realizar preguntas respecto al uso de las herramientas o problemas en el uso de las interfaces
+    de las librerías.
+
+  * Lista de correo de desarrollaodores: La lista de correo de desarrolladores se encuentran las contribuciones de desarrollo a los proyectos de netfilter. En esta lista podemos
+    observar parches o issues que se proponen para parchear o agregar nuevas funcionalidades que puedan ser realizadas por otros desarrolladores de la lista.
+
+    
