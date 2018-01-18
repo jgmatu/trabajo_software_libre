@@ -207,7 +207,6 @@ En las moficaciones del software una de las cosas que deben realizarse en la GPL
 La identificación de la firma del desarrollador se realiza a través de claves GPG. El desarrollador realiza la firma con su clave privada sobre el parche y se puede comprobar su
 veracidad a través de su clave pública GPG.
 
-
 # Proceso de desarrollo
 
 Cómo hemos comentado la comunidad se mueve entorno a una lista de correo. En esta lista de correo se suben las proposiciones de los desarrolladores de parches o funcionalidades nuevas
@@ -222,11 +221,11 @@ Para realizar un parche se debe subir en la lista de correo la diferencia entre 
 Dentro del proyecto existen una serie de roles y responsabilidades. Existen personas dentro del core-team que se dedican a la administración de la Infraestructura, el mantenimiento de los servidores web y el control de versiones o la gestión de la documentación del software.
 
 
-# Contribuciones y cadena de méritos
+# Contribuciones y cadena de méritos y core-team
 
-Como ya hemos comentado Netfilter es un proyecto que funciona a través de las contribuciones de desarrolladores voluntarios no hay empresas detrás encargadas del mantenimiento de los proyectos de netfilter. El software es mantenido por desarrolladores voluntarios.
+Como ya hemos comentado Netfilter es un proyecto que funciona a través de las contribuciones de desarrolladores voluntarios.
 
-Dentro de las contribuciones es conseguir una serie de méritos dentro de los proyectos y llegar a ser un desarrollador del _core-team_ o miembro emérito. Esto se puede conseguir dedicando tiempo al proyecto subiendo parches y nuevas funcionalidades al software de netfilter.
+Dentro de las contribuciones se puede conseguir una serie de méritos dentro de los proyectos y llegar a ser un desarrollador del _core-team_ o miembro emérito. Esto se puede conseguir dedicando tiempo al proyecto subiendo parches y nuevas funcionalidades al software de netfilter.
 
   * Submit enough great patches over a long time.
   * Read the three HOWTOs, and submit extensions or corrections.
@@ -234,5 +233,9 @@ Dentro de las contribuciones es conseguir una serie de méritos dentro de los pr
   * Look at what's happening in GIT, the netfilter-devel and the netdev list (at vger.kernel.org).
   * Implement what's on the projects TODO list.
   * Show an ongoing interest in supporting netfilter/iptables, not only in one specific area of interest, but as a whole.
-  
+
 ![alt text](img/contributions.png)
+
+También algunas empresas que han hecho posible el desarrollo de netfilter.
+
+![alt text](img/thanks.png)
