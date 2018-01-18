@@ -228,4 +228,11 @@ Como ya hemos comentado Netfilter es un proyecto que funciona a través de las c
 
 Dentro de las contribuciones es conseguir una serie de méritos dentro de los proyectos y llegar a ser un desarrollador del _core-team_ o miembro emérito. Esto se puede conseguir dedicando tiempo al proyecto subiendo parches y nuevas funcionalidades al software de netfilter.
 
+  * Submit enough great patches over a long time.
+  * Read the three HOWTOs, and submit extensions or corrections.
+  * Keep your Emails short and to the point. Don't flame; inform.
+  * Look at what's happening in GIT, the netfilter-devel and the netdev list (at vger.kernel.org).
+  * Implement what's on the projects TODO list.
+  * Show an ongoing interest in supporting netfilter/iptables, not only in one specific area of interest, but as a whole.
+  
 ![alt text](img/contributions.png)
