@@ -60,7 +60,8 @@ Netfilter usa listas de correo para la comunicación dentro de la comunidad, exi
 
 ### Normas de uso de la lista de correo
 
-La lista de correo tiene una serie de normas que deben cumplirse para el buen funcionamiento de la comunicación dentro de la comunidad.
+La lista de correo tiene una serie de normas que deben cumplirse para el buen funcionamiento de la comunicación dentro de la comunidad. En este apartado ponemos las diferentes
+normas que existen.
 
 
 ##### Subject Line
