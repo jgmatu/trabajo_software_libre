@@ -74,7 +74,8 @@ y modificación cualquier otra acción realizada está fuera del alcance de esta
 y la persona que realizó la modificación. Copyleft además asegura que cualquier usuario que use el software pueda ejercer las cuatro libertades sobre el software modificado, copiado
 o redistribuido. Las licencias libres constituyen el fundamento jurídico-filosófico del software libre.
 
-GPLv2 es incompatible con otras licencias de software libre cómo las licencias Apache 1.0, 1.1 y 2.0 o las BSD 4Clause. Son incompatibles al tener términos de uso diferentes a las de la GPLv2 el caso de las licencias Apache es posible hacer el software modificado como privativo, la GPLv2 no permite realizar copias de uso privativo del software.
+GPLv2 es incompatible con otras licencias de software libre cómo las licencias Apache 1.0, 1.1 y 2.0 o las BSD 4Clause. Son incompatibles al tener términos de uso diferentes a las de la GPLv2 el caso de las licencias Apache es posible hacer el software modificado como privativo, la GPLv2 no permite realizar copias de uso privativo del software. Es importante entender que la utilización de una licencia u otra es importante a la hora de realizar un modelo de negocio. En el caso de netfilter no tendría sentido que se pudiera privatizar el
+software ya que es una comunidad que vive de las contribuciones de los desarrolladores.
 
 ## Software firmado por los desarrolladores.
 
@@ -112,4 +113,11 @@ veracidad a través de su clave pública GPG.
 
 # Proceso de desarrollo
 
-Cómo hemos comentado la comunidad se mueve entorno a una lista de correo
+Cómo hemos comentado la comunidad se mueve entorno a una lista de correo. En esta lista de correo se suben las proposiciones de los desarrolladores de parches o funcionalidades nuevas
+al software y son aprobadas por el _core-team_ del proyecto que son los desarrolladores que tienen permisos de escritura sobre el control de versiones. El core-team comprobará el parche y realizará la subida de código al proyecto si el parche se considera positivo para el proyecto.
+
+Para realizar un parche se debe subir en la lista de correo
+
+# Roles y responsabilidades
+
+Dentro 
