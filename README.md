@@ -121,7 +121,6 @@ in the devel list, or vice versa
 Please make sure the date and time on your computer is always current. When your date is set to something such as the year 2006,
 messages posted by you will get sorted based on that date, which may put them outside of the related month or year they belong in.
 
-
 # Licencias
 
 Netfilter tiene licencia GPLv2, con esta licencia los desarrolladores o empresas que hagan contribuciones tienen una serie de términos de uso, liberar el software que agreguen del proyecto y vender el software que se desarrolle con el código fuente. Las licencias GPL cómo todas las licencias de software libre deben permitir las cuatro libertades del software
@@ -180,7 +179,10 @@ veracidad a través de su clave pública GPG.
 Cómo hemos comentado la comunidad se mueve entorno a una lista de correo. En esta lista de correo se suben las proposiciones de los desarrolladores de parches o funcionalidades nuevas
 al software y son aprobadas por el _core-team_ del proyecto que son los desarrolladores que tienen permisos de escritura sobre el control de versiones. El core-team comprobará el parche y realizará la subida de código al proyecto si el parche se considera positivo para el proyecto.
 
-Para realizar un parche se debe subir en la lista de correo
+Para realizar un parche se debe subir en la lista de correo la diferencia entre el padre, código subido al repositorio con la modificación con la firma del desarrollador que ha realizado la modificación sobre el proyecto.
+
+
+![alt text](img/commit.png)
 
 # Roles y responsabilidades
 
