@@ -9,11 +9,11 @@ Netfilter cuenta con un montón de proyectos todos de software libre. Uno de los
 
 Una cosa importante a destacar de Netfilter es que es un proyecto de servicios gratuitos y por tanto no tiene un ánimo lucrativo cómo organización. El proyecto existe por el esfuerzo de la comunidad, las contribuciones y el uso de las herramientas.
 
-Isn't it great that you can have a fully-fledged feature-rich packet filter, and all for free?
+* Isn't it great that you can have a fully-fledged feature-rich packet filter, and all for free?
 
 The netfilter/iptables project is a volunteer-based community effort. We can only exist because of the contributions of our users. If nobody would write any code, answer questions on the mailinglists, write documentation, ... the project wouldn't exist.
 
-So basically, it's your choice where you want to see the project tomorrow. If you are interested in the further progress of this project: Please contribute.
+So basically, it's your choice where you want to see the project tomorrow. If you are interested in the further progress of this project: Please contribute. *
 
 La forma más obvia de ayudar en el proyecto es desarrollando, arreglando bugs o realizando mejoras sobre el software. Otra manera de contribuir puede ser realizando doncaciones escribiendo documentación o traduciéndola. Hay que tener en cuenta que cualquier donación que hagamos será decisión de la comunidad el uso de esa donación y no del que la realizó.
 
@@ -34,8 +34,17 @@ el repositorio está obsoleto.
 
 ![alt text](img/git_repo_ntfilter.png)
 
-### Issues para contribuciones
+### Resumen de un proyecto
 
 Podríamos realizar cualquier contribución dentro de estos proyectos si accedemos por ejemplo al proyecto de iptables podemos ver el resumen total del proyecto y cuales han sido los últimos commit del proyecto.
 
 ![alt text](img/iptables_summary.png)
+
+### Registro de cambios y tabla de méritos
+
+Dentro de netfilter existe un conjunto de desarrolladores que tienen el rol de commiter dentro de los diferentes proyectos. Hay una tabla donde se van contabilizando los commit de cada uno de ellos aunque muchos pueden ser pull request de otros desarrolladores de la lista de correo que han comiteado ellos.
+
+
+## Lista de correo
+
+Netfilter usa listas de correo para la comunicación dentro de la comunidad, existen tres tipos de listas de correo:
