@@ -148,6 +148,30 @@ o redistribuido. Las licencias libres constituyen el fundamento jurídico-filos�
 GPLv2 es incompatible con otras licencias de software libre cómo las licencias Apache 1.0, 1.1 y 2.0 o las BSD 4Clause. Son incompatibles al tener términos de uso diferentes a las de la GPLv2 el caso de las licencias Apache es posible hacer el software modificado como privativo, la GPLv2 no permite realizar copias de uso privativo del software. Es importante entender que la utilización de una licencia u otra es importante a la hora de realizar un modelo de negocio. En el caso de netfilter no tendría sentido que se pudiera privatizar el
 software ya que es una comunidad que vive de las contribuciones de los desarrolladores.
 
+Para saber el tipo de licencia que tiene un software libre todos los proyectos cuentan en alguna parte del código fuente con un comentario que deben pegar en el software.  Este comentario identifica el tipo de licencia con el que cuenta el software.
+
+  Copyright (C) yyyy  name of author
+
+  This program is free software; you can redistribute it and/or
+  modify it under the terms of the GNU General Public License
+  as published by the Free Software Foundation; either version 2
+  of the License, or (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program; if not, write to the Free Software
+  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+  Gnomovision version 69, Copyright (C) year name of author
+  Gnomovision comes with ABSOLUTELY NO WARRANTY; for details
+  type `show w'.  This is free software, and you are welcome
+  to redistribute it under certain conditions; type `show c'
+  for details.
+
 ## Software firmado por los desarrolladores.
 
 En las moficaciones del software una de las cosas que deben realizarse en la GPLv2 son las marcas de fecha de moficación y la identificación del desarrollador que realizó el parche o la mejora. Para solucionar este problema se realiza la firma del parche que se sube al control de versiones con la marca *Signed-off-by*. Los desarrolladores firman un acuerdo en la contribución en el software.
@@ -193,4 +217,4 @@ Para realizar un parche se debe subir en la lista de correo la diferencia entre 
 
 # Roles y responsabilidades
 
-Dentro del proyecto existen una serie de roles y responsabilidades. Existen personas dentro del core-team que se dedican a la administración de la Infraestructura, el mantenimiento del servidor web o el control de versiones y la gestión de la documentación del software.
+Dentro del proyecto existen una serie de roles y responsabilidades. Existen personas dentro del core-team que se dedican a la administración de la Infraestructura, el mantenimiento de los servidores web y el control de versiones o la gestión de la documentación del software.
