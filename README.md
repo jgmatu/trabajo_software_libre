@@ -54,7 +54,62 @@ Netfilter usa listas de correo para la comunicación dentro de la comunidad, exi
   * Lista de correo de usuarios: En la lista de correo de usuarios podemos realizar preguntas respecto al uso de las herramientas o problemas en el uso de las interfaces
     de las librerías.
 
-  * Lista de correo de desarrollaodores: La lista de correo de desarrolladores se encuentran las contribuciones de desarrollo a los proyectos de netfilter. En esta lista podemos
+  * Lista de correo de desarrolladores: La lista de correo de desarrolladores se encuentran las contribuciones de desarrollo a los proyectos de netfilter. En esta lista podemos
     observar parches o issues que se proponen para parchear o agregar nuevas funcionalidades que puedan ser realizadas por otros desarrolladores de la lista.
 
-    
+
+# Licencias
+
+Netfilter tiene licencia GPLv2, con esta licencia los desarrolladores o empresas que hagan contribuciones tienen una serie de términos de uso, liberar el software que agreguen del proyecto y vender el software que se desarrolle con el código fuente. Las licencias GPL cómo todas las licencias de software libre deben permitir las cuatro libertades del software
+libre.
+
+  * Libertad 0: Libertad de uso de programa, para cualquier propósito
+  * Libertad 1: Libertad para estudiar el programa y adaptarlo a mis necesidades
+  * Libertad 2: Libertad para redistribuir copias del programa.
+  * Libertad 3: Libertad para mejorar el programa y distribuir las mejoras al público, para que toda la sociedad se pueda beneficiar.
+
+El caso de las GPLv2 es una licencia copyleft se permite la redistribución y modificación, siempre y cuando dicha redistribución se realice bajo los mismos términos del
+acuerdo de licencia original. Cualquier modificación o elemento original estará sujeto a la misma licencia. La licencia GPLv2 cubre únicamente las actividades de copia, redistribución
+y modificación cualquier otra acción realizada está fuera del alcance de esta licencia. Las modificaciones que se hagan sobre el software deben ser marcadas con la fecha de modificación
+y la persona que realizó la modificación. Copyleft además asegura que cualquier usuario que use el software pueda ejercer las cuatro libertades sobre el software modificado, copiado
+o redistribuido. Las licencias libres constituyen el fundamento jurídico-filosófico del software libre.
+
+GPLv2 es incompatible con otras licencias de software libre cómo las licencias Apache 1.0, 1.1 y 2.0 o las BSD 4Clause. Son incompatibles al tener términos de uso diferentes a las de la GPLv2 el caso de las licencias Apache es posible hacer el software modificado como privativo, la GPLv2 no permite realizar copias de uso privativo del software.
+
+## Software firmado por los desarrolladores.
+
+En las moficaciones del software una de las cosas que deben realizarse en la GPLv2 son las marcas de fecha de moficación y la identificación del desarrollador que realizó el parche o la mejora. Para solucionar este problema se realiza la firma del parche que se sube al control de versiones con la marca *Signed-off-by*. Los desarrolladores firman un acuerdo en la contribución en el software.
+
+    Developer's Certificate of Origin 1.1
+
+        By making a contribution to this project, I certify that:
+
+        (a) The contribution was created in whole or in part by me and I
+            have the right to submit it under the open source license
+            indicated in the file; or
+
+        (b) The contribution is based upon previous work that, to the best
+            of my knowledge, is covered under an appropriate open source
+            license and I have the right under that license to submit that
+            work with modifications, whether created in whole or in part
+            by me, under the same open source license (unless I am
+            permitted to submit under a different license), as indicated
+            in the file; or
+
+        (c) The contribution was provided directly to me by some other
+            person who certified (a), (b) or (c) and I have not modified
+            it.
+
+        (d) I understand and agree that this project and the contribution
+            are public and that a record of the contribution (including all
+            personal information I submit with it, including my sign-off) is
+            maintained indefinitely and may be redistributed consistent with
+            this project or the open source license(s) involved.
+
+La identificación de la firma del desarrollador se realiza a través de claves GPG. El desarrollador realiza la firma con su clave privada sobre el parche y se puede comprobar su
+veracidad a través de su clave pública GPG.
+
+
+# Proceso de desarrollo
+
+Cómo hemos comentado la comunidad se mueve entorno a una lista de correo
