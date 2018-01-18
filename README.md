@@ -9,12 +9,11 @@ Netfilter cuenta con un montón de proyectos todos de software libre. Uno de los
 
 Una cosa importante a destacar de Netfilter es que es un proyecto de servicios gratuitos y por tanto no tiene un ánimo lucrativo cómo organización. El proyecto existe por el esfuerzo de la comunidad, las contribuciones y el uso de las herramientas.
 
-    *Isn't it great that you can have a fully-fledged feature-rich packet* *filter, and all for free?*
+*Isn't it great that you can have a fully-fledged feature-rich packet* *filter, and all for free?*
 
-    _The netfilter/iptables project is a volunteer-based community effort. We can only exist because of the contributions of our users. If nobody would write any code, answer_
-    _questions on the mailinglists, write documentation, ... the project wouldn't exist._
+*The netfilter/iptables project is a volunteer-based community effort. We can only exist because of the contributions of our users. If nobody would write any code, answer questions on* *the mailinglists, write documentation, ... the project wouldn't exist.*
 
-    _So basically, it's your choice where you want to see the project tomorrow. If you are interested in the further progress of this project: Please contribute._
+_So basically, it's your choice where you want to see the project tomorrow. If you are interested in the further progress of this project: Please contribute._
 
 La forma más obvia de ayudar en el proyecto es desarrollando, arreglando bugs o realizando mejoras sobre el software. Otra manera de contribuir puede ser realizando doncaciones escribiendo documentación o traduciéndola. Hay que tener en cuenta que cualquier donación que hagamos será decisión de la comunidad el uso de esa donación y no del que la realizó.
 
