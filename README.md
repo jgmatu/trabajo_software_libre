@@ -181,7 +181,6 @@ al software y son aprobadas por el _core-team_ del proyecto que son los desarrol
 
 Para realizar un parche se debe subir en la lista de correo la diferencia entre el padre, código subido al repositorio con la modificación con la firma del desarrollador que ha realizado la modificación sobre el proyecto.
 
-
 ![alt text](img/commit.png)
 
 # Roles y responsabilidades
